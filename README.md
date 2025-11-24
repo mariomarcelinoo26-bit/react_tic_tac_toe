@@ -1,0 +1,14 @@
+✓✓ React Tic-Tac-Toe 
+
+Projeto educacional de criação do clássico jogo da velha utilizando React.
+
+✓✓Tecnologias
+- React - NodeJS - JavaScript
+-
+-   ✓✓ Funcionalidades
+-    - Tabuleiro 3×3 - Alternância de jogadores X e O - Histórico das jogadas - Time-travel (voltar a posições anteriores da partida)
+     -
+  ✓✓  Como executar
+ ```bash
+npm install
+ npm start
